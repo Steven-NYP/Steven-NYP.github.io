@@ -9,7 +9,7 @@
 
 <channel>
 	<title>iFood</title>
-	<atom:link href="http://localhost/iFood/feed/?simply_static_page=507" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/iFood/feed/?simply_static_page=568" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 31 Mar 2023 08:23:26 +0000</lastBuildDate>
