@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin.ifood &#8211; iFood</title>
-	<atom:link href="http://localhost/iFood/author/admin-ifood/feed/?simply_static_page=431" rel="self" type="application/rss+xml" />
-	<link>/https://github.com/Steven-NYP/Steven-NYP.github.io</link>
+	<atom:link href="http://localhost/iFood/author/admin-ifood/feed/?simply_static_page=493" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 31 Mar 2023 08:23:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://github.com/Steven-NYP/Steven-NYP.github.io/2023/03/31/hello-world/</link>
-					<comments>/https://github.com/Steven-NYP/Steven-NYP.github.io/2023/03/31/hello-world/#comments</comments>
+		<link>/2023/03/31/hello-world/</link>
+					<comments>/2023/03/31/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin.ifood]]></dc:creator>
 		<pubDate>Fri, 31 Mar 2023 08:23:26 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://github.com/Steven-NYP/Steven-NYP.github.io/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://github.com/Steven-NYP/Steven-NYP.github.io/2023/03/31/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/2023/03/31/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
